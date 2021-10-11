@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vikashmeena364
 - 👀 I’m interested in making interesting softwares.
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on some web dev projects.
 - 📫 reachout me on vm25092003@gmail.com
 
 <!---
